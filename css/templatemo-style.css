@@ -207,6 +207,7 @@ h5 {
   padding-bottom: 140px;
   text-align: center;
 }
+
 #home h1 {
   /* border: 2px solid #d43f52; */
   background-color: rgba(255, 0, 0, 0.493);
@@ -529,3 +530,70 @@ video {
 /* .glyphicon {
   top: 1100px;
 } */
+
+/* start videogames */
+
+#homevideogames {
+  background: center center url("../images/VIDEOJUEGOS/fondo\ huguito.JPG");
+  background-size: cover;
+  background-repeat: space;
+  padding-top: 120px;
+  padding-bottom: 140px;
+  text-align: center;
+  font-family: "darker
+}
+
+#textbefore {
+  background-color: #436968;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+#textbefore h2 {
+  color: #ffffff;
+}
+#textbefore h3 {
+  color: #000000;
+}
+
+#textbefore .text-top {
+  padding-top: 10px;
+}
+.imagenAboutMe {
+  max-width: 100%;
+  max-height: 100%;
+  /* height: auto; */
+}
+/* end videogames */
+
+/* start illustrations */
+
+#homeillustrations {
+  background: center center url("../images/ILUSTRACIONES/mural-05.jpg");
+  background-size: cover;
+  background-repeat: space;
+  padding-top: 120px;
+  padding-bottom: 140px;
+  text-align: center;
+}
+
+#textbefore {
+  background-color: #436968;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+#textbefore h2 {
+  color: #ffffff;
+}
+#textbefore h3 {
+  color: #000000;
+}
+
+#textbefore .text-top {
+  padding-top: 10px;
+}
+.imagenAboutMe {
+  max-width: 100%;
+  max-height: 100%;
+  /* height: auto; */
+}
+/* end illustrations */
